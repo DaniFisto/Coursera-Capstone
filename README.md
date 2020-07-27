@@ -1,2 +1,2 @@
-# IBM-Professional-Certificate
+# Coursera-Capstone
 Github repository for IBM professional certificate Capstone project.
